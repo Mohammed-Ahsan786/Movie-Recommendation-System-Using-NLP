@@ -30,7 +30,7 @@ Dataset: TMDB 5000
 Feature extraction methods such as TF-IDF vectorises the text data and distance metrics 
 such as Cosine Similarity computes the similarity between each item by calculating the distance between each vector.
 
-### Feature Extraction Method
+### Feature Extraction Methods
 The feature extraction method used in this recommender is Term Frequency- Inverse Document Frequency (TF-IDF). 
 TF-IDF works by converting textual information into a Vector Space Model (VSM). In the context of TF-IDF,
  VSM is an algebraic model that represents text documents as vectors, also known as index terms. 
